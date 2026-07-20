@@ -21,3 +21,10 @@
     width: 100%;
     color: white;
 }
+.border{
+    border: 1.5px solid transparent;
+}
+
+.border:hover{
+    border: 1.5px solid white;
+}
