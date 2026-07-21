@@ -124,4 +124,24 @@ span{
 
 .panel-ops p{
     display: inline;
+    margin-left: 10px;
 }
+
+.panel-ops{
+    width: 70%;
+    font-size: 0.8rem;
+}
+
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+/* hero section */
+
+.hero-section{
+    background-image: url("./assets/hero-section.jpg");
+    height: 600px;
+    background-size: cover;
+}
+
