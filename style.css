@@ -169,6 +169,7 @@ span {
 .shop-section{
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
   background-color: #e2e7e6;
 }
 
